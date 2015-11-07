@@ -7,7 +7,9 @@ update index.js with your twitter app settings
 
 run the following command in the terminal 
 
+```
 node --harmony index.js
+```
 
 open browser http://localhost:3000
 
