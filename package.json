@@ -1,0 +1,12 @@
+{
+    "name":"tweets-api-by-username",
+    "description":"Twitter client get 10 tweets from username provided",
+    "version":"0.1.0",
+    "author" : "mo_zag",
+    "dependencies" : {
+        "twitter-js-client" : "*",
+        "body-parser": "^1.12.2",
+    	"express": "^4.12.3"
+    },
+    "license": "MIT"
+}
